@@ -1,7 +1,7 @@
 # Quick-link-chrome-extension
  
  - Many a times users forget the URL of their own portfolio, hence this extension can directly help them to jump to their portfolio link
-   and save their time.
+   and saves their time.
    
 ## Preview
 
